@@ -1,0 +1,41 @@
+.top{
+    width: 100vw; /* view width */
+    margin: auto; /* center width */
+    height: 15vh;
+    background-color: #444;
+    position: relative;
+}
+
+.left{
+    width: 12.5vw; /* view width */
+    margin: bottom-left; /* center width */
+    height: 85vh;
+    background-color: lightgray;
+    float: left;
+  
+}
+
+.right{
+    width: 12.5vw; /* view width */
+    float: right;
+    height: 85vh;
+    background-color: lightgray;
+
+
+   
+}
+.bottom{
+    width: 75vw; /* view width */
+    margin-left: 12.5vw; /* center width */
+    height: 10vh;
+    background-color: #222222;
+    position: absolute;
+    bottom: 0;
+    
+    
+}
+
+
+..center{ 
+    margin: auto;
+}

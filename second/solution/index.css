@@ -55,7 +55,7 @@ body {
   background-color: white;
   padding: 100px;
   box-sizing: border-box ;
-  margin: 25px auto; 
+  margin: auto; 
   -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
   -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
@@ -64,6 +64,7 @@ body {
 .container-three h1 {
   width: 100%;
   text-align: center;
+  padding-top: auto;
   color: navy;
   letter-spacing: 10px;
 }

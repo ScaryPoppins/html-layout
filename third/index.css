@@ -1,0 +1,28 @@
+#gray-box{
+    background-color:lightgray;
+    padding:20px;
+}
+.blue-sub-box{
+    background-color: blue;
+    width:7vh;
+    height:7vh;
+}
+.body-box{
+    font-size: 1.2rem;
+    padding: 3%;
+    overflow: hidden;
+}
+.rectangle2{
+    height: 13vh;}
+#blue-box{
+    background-color: blue;
+}
+#green-box{
+    background-color: teal;
+}
+#lime-box{
+    background-color:lime;
+}
+#yellow-box{
+    background-color:yellow;
+}
